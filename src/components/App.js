@@ -1,3 +1,5 @@
+// Help from the official solution helped me understand some things in these files.
+
 import React, { useEffect, useState } from "react";
 
 import Header from "./Header";
